@@ -1,0 +1,40 @@
+# ======================
+# Node / Next.js
+# ======================
+
+front-end/node_modules/
+front-end/.next/
+front-end/out/
+
+# Environment Variables
+front-end/.env.local
+front-end/.env
+
+# Logs
+front-end/npm-debug.log*
+
+# ======================
+# Laravel
+# ======================
+
+Back-End/vendor/
+Back-End/node_modules/
+Back-End/storage/*.key
+
+Back-End/.env
+
+Back-End/bootstrap/cache/*.php
+
+# ======================
+# OS Files
+# ======================
+
+.DS_Store
+Thumbs.db
+
+# ======================
+# IDE
+# ======================
+
+.vscode/
+.idea/
