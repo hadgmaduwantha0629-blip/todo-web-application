@@ -36,5 +36,6 @@ Thumbs.db
 # IDE
 # ======================
 
-.vscode/
 .idea/
+config.bat
+node_modules
